@@ -1,2 +1,14 @@
 <?php
-	echo 'лШвсрЁцФ';
+	echo 'Е░▌Е▐╟';
+?>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Е░▌Е▐╟И╕√И║╣</title>
+</head>
+<body>
+	
+</body>
+</html>
